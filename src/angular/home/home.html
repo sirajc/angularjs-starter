@@ -1,0 +1,13 @@
+<div class="container">
+  <blockquote>
+  Tools and Technologies used in {{home.appName}}
+  </blockquote>
+  <ul class="list-group">
+    <li class="list-group-item" data-ng-repeat="t in home.toolsTech">
+      {{t}}
+    </li>
+  </ul>
+  <div class="jumbotron">
+    Developed by <span ng-bind="home.developer"></span>
+  </div>
+</div>
