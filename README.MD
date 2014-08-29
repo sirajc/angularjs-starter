@@ -1,4 +1,4 @@
-# Web application for Kokan Trust
+# Starter Application for creating awesome AngularJS apps
 ---
 
 ### Tools and Technologies
