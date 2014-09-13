@@ -1,0 +1,18 @@
+<div class="container">
+
+  <div class="panel panel-default">
+    <div class="panel-heading">Kickstart AngularJS App with modular code, gulp, sass, karma and other support out of the box</div>
+  </div>
+
+  <blockquote>
+  Tools and Technologies used in {{home.appName}}
+  </blockquote>
+  <ul class="list-group">
+    <li class="list-group-item" data-ng-repeat="t in home.toolsTech">
+      {{t}}
+    </li>
+  </ul>
+  <div class="jumbotron">
+    Developed by <span ng-bind="home.developer"></span>
+  </div>
+</div>
