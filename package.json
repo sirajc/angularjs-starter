@@ -31,7 +31,12 @@
     "gulp-protractor": "0.0.11",
     "gulp-sass": "0.7.3",
     "gulp-util": "3.0.0",
+    "imagemin-gifsicle": "^4.0.0",
+    "imagemin-jpegtran": "^4.0.0",
+    "imagemin-optipng": "^4.0.0",
     "imagemin-pngcrush": "0.1.0",
+    "imagemin-pngquant": "^3.1.0",
+    "imagemin-svgo": "^2.1.0",
     "karma": "0.12.22",
     "run-sequence": "0.3.6"
   }
